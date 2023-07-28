@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## How to Run this App
 First Clone the Repository using this https link or you can use ssh (https://github.com/SachinNaraparaju/MovieReactProject.git)
 
-Then run npm init to download the necessary packages
+Then run npm install to download the necessary packages
 
 Create a OMDB API key by visiting their website and then create a .env file in the directory and save the API KEY in a variable called REACT_APP_OMDB_API_KEY
 
